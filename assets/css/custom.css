@@ -1,0 +1,17 @@
+@media (max-width:767px){
+    .m-title-2{
+        font-size: 60px!important;
+        line-height: 0.9!important;
+}
+    .m-title-1{
+        font-size: 36px!important;
+}
+    .m-subtitle{
+        margin-top: 6rem!important;
+    }
+}
+@media (min-width: 991px){
+    .nav .m-menu-item{
+        display: none;
+    }
+}
