@@ -1,11 +1,17 @@
 @media (max-width:767px){
+    .m-title-1{
+        font-size: 33px!important;
+        margin-top: 1rem!important;
+}
     .m-title-2{
         font-size: 60px!important;
         line-height: 0.9!important;
 }
-    .m-title-1{
-        font-size: 36px!important;
+    .m-title{
+        font-size: 60px!important;
+        margin-top: 1rem!important;
 }
+
     .m-subtitle{
         margin-top: 6rem!important;
     }
